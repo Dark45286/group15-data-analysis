@@ -51,5 +51,10 @@ jupyter notebook "Group 15_Data_Analysis_with_Python_cro_Recommendation.ipynb"
 
 ## Group Members
 Group 15
+1-TRAORE Khalil Hibrahim
+2-OUEDRAOGO Corentin
+3-DABO Axel Yanis
+4-TRAORE Mohamed
+5-YAMEOGO Judith
 
 
