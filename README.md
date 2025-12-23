@@ -52,5 +52,4 @@ jupyter notebook "Group 15_Data_Analysis_with_Python_cro_Recommendation.ipynb"
 ## Group Members
 Group 15
 
-## License
-This project is open source and available for educational purposes.
+
