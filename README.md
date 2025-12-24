@@ -57,4 +57,10 @@ Group 15
 4-TRAORE Mohamed
 5-YAMEOGO Judith
 
+## PRofiles of MEMBERS 
+
+https://github.com/AllcodIn
+https://github.com/Y4NN777
+https://github.com/Dark45286
+
 
